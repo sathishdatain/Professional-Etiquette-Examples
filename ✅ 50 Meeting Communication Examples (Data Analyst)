@@ -1,0 +1,65 @@
+✅ 50 Meeting Communication Examples (Data Analyst)
+🔹 STATUS / PROGRESS UPDATES
+
+“Yesterday I cleaned the data and validated the missing fields; today I’ll start the modeling part.”
+“The dashboard layout is ready, and I’m working on finalizing the DAX measures.”
+“The SQL query optimization reduced run time by 40%, and the report now loads faster.”
+“The data quality issues identified last week have been resolved.”
+“All KPIs requested by stakeholders are mapped and validated.”
+“The ETL pipeline ran successfully, and the dataset is ready for analysis.”
+“I completed the exploratory analysis, and I’ll start building insights today.”
+“The API integration is working. I’m checking the data freshness now.”
+“The Power BI workspace has been published, and access is given to all stakeholders.”
+“The forecasting model is 80% done, just validating results with business.”
+
+🔹 REQUIREMENT CLARIFICATIONS
+
+“Just to confirm, do we need the KPI for monthly trend or weekly trend?”
+“Can you confirm if we should exclude cancelled orders from the final count?”
+“Do we need customer-level breakdown or only aggregated numbers?”
+“Is the timeline flexible, or do we need this dashboard by end of day?”
+“Should the report include historical data or only current-year data?”
+“Can you share sample expected output so I can align the format?”
+“Do we have the latest business rules for calculating churn?”
+“Can we freeze the requirements before I move to the visualization stage?”
+“Which department will be the primary user of this dashboard?”
+“Do we need to include revenue projections or just actuals?”
+
+🔹 PRESENTING INSIGHTS / FINDINGS
+
+“Based on the analysis, customer churn increased mainly due to delivery delays.”
+“The top-selling products contribute 65% of total revenue.”
+“There is a strong correlation between marketing spend and customer acquisition.”
+“Sales dropped by 12% during weekends, which might need further investigation.”
+“Major data inconsistencies were found in the order table.”
+“After segmentation, three customer groups showed distinct buying behaviour.”
+“The data suggests the conversion rate has improved after the UI update.”
+“Our predictive model shows an accuracy of 87%, which meets the target.”
+“The north region consistently outperforms others in profitability.”
+“The average processing time came down from 6 hours to 2 hours after optimization.”
+
+🔹 FLAGGING RISKS / ISSUES / DEPENDENCIES
+
+“We’re blocked because the data source is not updated since Monday.”
+“The report is delayed because we’re waiting for business validation.”
+“There is a dependency on the engineering team for API access.”
+“The dataset has duplicate IDs, and cleaning might take additional time.”
+“We need SME inputs to finalize the formula for cost allocation.”
+“There’s a mismatch between finance numbers and CRM data; investigating the root cause.”
+“The current timeline is tight; we may need an extension of two days.”
+“We’re missing historical data for 2022, so trend accuracy might be impacted.”
+“The Excel file shared has formatting issues; can you resend?”
+“There’s an access issue to the production database; waiting for IT support.”
+
+🔹 COORDINATION / NEXT STEPS
+
+“I’ll share the initial draft dashboard by end of day.”
+“Once I get the business rules, I’ll proceed with the calculations.”
+“I’ll sync with the engineering team for clarification.”
+“I’ll prepare a comparison sheet and share it before tomorrow’s meeting.”
+“Let’s schedule a short review call once I finish the visuals.”
+“I’ll document the findings and upload them to the shared folder.”
+“I’ll test the report in Power BI Service and confirm the refresh timings.”
+“Let me recheck the numbers and update the file.”
+“I’ll create a version-controlled file so the team can track progress.”
+“I’ll finalize the dashboard after today’s feedback and republish.”
