@@ -2,113 +2,70 @@
 🔹 Clarification & Requirement Gathering (1–10)
 
 “Could you please clarify the exact KPI you want to track?”
-
 “To avoid assumptions, may I confirm the expected output format?”
-
 “Can you specify the date range we should consider for this analysis?”
-
 “Is this requirement urgent, or can I schedule it after the monthly report?”
-
 “Do we need the raw data as well, or just the summary insights?”
-
 “Should the dashboard be refreshed daily or weekly?”
-
 “Could you walk me through the business problem once more?”
-
 “May I know the target audience for this report?”
-
 “Is accuracy more important here, or is this a quick decision-making report?”
-
 “Do we have a reference or previous version of this report?”
 
 🔹 When You Need Data or Access (11–17)
 
 “I’ll need access to the source table to proceed with the analysis.”
-
 “Can you please share the updated dataset?”
-
 “The file seems incomplete. Could you resend it?”
-
 “I need permissions for the data warehouse. Can you help raise a request?”
-
 “Could you let me know the data owner so I can coordinate?”
-
 “Is the data manually entered or system-generated?”
-
 “Do we have documentation for this dataset?”
 
 🔹 Reporting Issues in Data (18–24)
 
 “I noticed missing values in the sales field. I’ll clean them before analysis.”
-
 “There is a mismatch between two data sources. I’m verifying the correct one.”
-
 “The data is not up-to-date. Can we check the refresh schedule?”
-
 “Some records appear duplicated. I’ll remove them.”
-
 “There’s a sudden spike in the numbers; I’m checking for anomalies.”
-
 “The format of the date column is inconsistent; I’ll standardize it.”
-
 “The dataset is too large. I’ll optimize the query for faster loading.”
 
 🔹 Providing Updates (25–32)
 
 “Quick update: Data cleaning is complete. Starting modeling now.”
-
 “I’ve completed the initial analysis and will share the insights shortly.”
-
 “The dashboard is ready for review.”
-
 “I’m still validating a few records. Will update once done.”
-
 “All changes are incorporated. Sharing the final version now.”
-
 “Scheduled the report refresh as requested.”
-
 “The performance issue is resolved; loading is faster now.”
-
 “I’ll deliver the final report by EOD.”
 
 🔹 Presenting Insights (33–39)
 
 “Here are the key insights from the analysis.”
-
 “The data shows a 15% increase in customer retention.”
-
 “The main drop occurred in Q3 due to low engagement.”
-
 “Top-performing regions are North and West zones.”
-
 “Repeat customers contribute 40% of total revenue.”
-
 “Customer complaints decreased after the product update.”
-
 “These trends suggest that marketing efforts are working well.”
 
 🔹 Handling Feedback (40–44)
 
 “Thank you for the feedback. I’ll make the necessary changes.”
-
 “Good suggestion. I’ll include that filter in the dashboard.”
-
 “I appreciate the review. Updating the visualization now.”
-
 “I’ll check that point and revert shortly.”
-
 “Thanks for highlighting that. It helps improve the accuracy.”
 
 🔹 Professional Conversation (45–50)
 
 “Please let me know if you need more insights on this report.”
-
 “If everyone agrees, I’ll proceed with this approach.”
-
 “From a data perspective, this strategy seems feasible.”
-
 “I’ll document the process and share it with the team.”
-
 “Let me know if you want this automated for recurring use.”
-
 “Happy to help. Feel free to reach out anytime.”
